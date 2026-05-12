@@ -106,3 +106,6 @@ scripts/     CLI runner and sanity checks.
 tests/       33 offline tests.
 data/jds/    Sample job postings.
 ```
+
+Demo video Link:
+https://youtu.be/lh4JMX9TfxQ
